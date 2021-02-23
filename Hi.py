@@ -1,3 +1,3 @@
-print("Hello World")
-for i in range(10):
+print("Hello World i am not a fada")
+for i in range(70):
   print(i)
